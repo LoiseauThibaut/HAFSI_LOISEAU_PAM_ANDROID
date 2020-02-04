@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Sarahah",
+    "firstName": "Sarah",
+    "lastName": "Hafsi",
+    "imageUrl": "https://focus.nouvelobs.com/2019/09/24/136/0/1240/620/1377/667/75/0/e9eddf6_B3Y0d0aPpK74XJJv8JozssjG.jpg"
+  },
+  {
+    "name": "Titi",
+    "firstName": "Thibaut",
+    "lastName": "Loiseau",
+    "imageUrl": "https://pbs.twimg.com/media/DiZtAMoXcAAzUNr.jpg"
+  },
+  {
+    "name": "Unknown",
+    "firstName": "Michel",
+    "lastName": "Durand"
+  },
+  {
+    "name": "Wrong url",
+    "firstName": "Wrong",
+    "lastName": "Url",
+    "imageUrl": "toto"
+  }
+]
